@@ -21,6 +21,11 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+#Vihaan's First CS193 Homework
+- It is run by students 
+- It is fairly chill
+- It is not boring 
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
